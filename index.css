@@ -407,5 +407,5 @@ h1 {
  .card{
     background-image: linear-gradient(to left, #ee063cb0 0%, #FF4B2B 100%);
     color: white;
-    margin-bottom: 30px;
+    margin: 30px;
  }
